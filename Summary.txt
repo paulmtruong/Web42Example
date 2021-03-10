@@ -1,0 +1,9 @@
+Note when referring to a folder in your Terminal or gitbash we will say directory instead
+Terminal Commands:
+
+ls - is the list command. It will list everything in your current directory. 
+mkdir - make a directory command (aka make a new folder)
+cd - is the changed directory command. This allows you to go into other directories
+pwd - print working directory command. This will print what directory you are currently in.
+touch - is the command to create a n ew file 
+code - is the command to open a file or directory in VScode.
